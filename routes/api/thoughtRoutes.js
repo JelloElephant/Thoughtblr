@@ -18,6 +18,7 @@ router.route('/:thoughtId').get(getSingleThought)
 router.route('').post(createThought)
 
 // Update thought by id
+router.route('')
 
 // Delete thought by id
 router.route('').delete(deleteThought)

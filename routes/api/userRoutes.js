@@ -19,3 +19,4 @@ router.route('/')
 router.route('/')
 
 // Delete a user by Id
+router.route('/')
