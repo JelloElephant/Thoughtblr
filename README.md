@@ -3,6 +3,8 @@
 ## Description
 An example of a social media websites backend using MongoDB
 
+[Click here](https://youtu.be/XB3e8q-mRno) for a video demo!
+
 
 ## Installation
 npm install for dependancies
